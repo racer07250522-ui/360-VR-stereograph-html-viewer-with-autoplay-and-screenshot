@@ -1,13 +1,17 @@
-360 VR stereograph html viewer with autoplay and screenshot
+How to use
 
-Autoplay interval time range from 5-50 seconds, can be toggle on/off
+Select the quality of the images based on your device's performance
 
-Screenshot function
+Select the type of image you intend to input
 
-Control inverse, can be toggle on/off
+Choose Regular Panorama or Stereograph Split 
 
-UI Toggle so only one small button remain
+   If they are stereographs, choose the split
 
-Sphere/Cubemap switch
+   If they are stereographs, choose which part of the split you want to look at
 
-Multiple image selection
+Choose the projection; you usually can leave it
+
+Choose the file/files you intend to play
+
+Enjoy
