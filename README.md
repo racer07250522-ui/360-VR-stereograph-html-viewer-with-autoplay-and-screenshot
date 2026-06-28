@@ -1,6 +1,12 @@
 How to use
 
-Select the quality of the images based on your device's performance
+WASD for up left down right
+
+QEZC for tilt
+
+Mousewheel/ Number 1 2 for zoom in zoom out
+
+Select the quality of the images based on your computer's performance
 
 Select the type of image you intend to input
 
